@@ -3,4 +3,4 @@
 
 Estou aprendendo a fazer sites com o uso de HTML5 e CSS3.
 
-<a href="https://pedroporfirio06.github.io/html-css/sites/android/site.html"> Acessar site do Android (1º Site).<a>
+<a href="https://pedroporfirio06.github.io/html-css/sites/android/site.html" target="_blank"> Acessar site do Android (1º Site).<a>
